@@ -1,0 +1,16 @@
+imports
+{
+	Tsarcraft
+}
+
+module Base
+{
+	sound RadioTalk
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/null.wav,
+		}
+	}
+}

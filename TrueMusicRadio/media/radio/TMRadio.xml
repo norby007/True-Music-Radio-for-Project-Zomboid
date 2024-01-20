@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RadioData>
+  <RootInfo>
+    <SourceFile>Radio</SourceFile>
+    <FileGUID>cf7a7db0-3c03-4573-91a7-6d41c992e13a</FileGUID>
+    <Version>1</Version>
+  </RootInfo>
+  <Voices>
+    <VoiceEntry ID="37326ee6-0769-4aa7-bd7e-ee0f35440f5c">
+      <FinalColor r="255" g="0" b="0" />
+    </VoiceEntry>
+  </Voices>
+  <Adverts />
+  <Channels>
+    <ChannelEntry ID="74a2786d-3093-42f3-8a81-3366a2c649e9" name="True Music Radio" cat="Radio" freq="94000" startscript="TMR1">
+      <ScriptEntry ID="22a4920e-3748-448e-bcaf-23af45739e77" name="TMR1" startdelay="0" timestampmode="Static" loopmin="3650" loopmax="3650">
+        <ExitOptions>
+          <ExitOption chance="100" script="TMR" delay="0" />
+        </ExitOptions>
+        <BroadcastEntry ID="fa6b4a2f-8d91-4098-a588-25f4bea358e7" timestamp="0" endstamp="60" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="c24afab0-4ae5-40d0-8f83-f247536818ca" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="8bef6973-9806-4d8c-97c8-6c15f1d02228" timestamp="60" endstamp="120" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="0b5caf29-4ac9-40a5-8063-2b854fd32cd6" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="4fe5f62f-bebb-429d-a1b1-c480d7f087e7" timestamp="120" endstamp="180" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="7b5c2582-37a1-404f-96fd-121cfaabc89d" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="05ae6b45-fea0-4a83-8ad9-f42dc61b7bd8" timestamp="180" endstamp="240" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="d866ba40-baf1-4913-8903-2bc984171244" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="59f644c1-3580-44ce-8968-062b42c26d93" timestamp="240" endstamp="300" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="55ece061-b137-4703-8e99-b1b471c20a99" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="9a2c970f-abfe-4bb8-948f-b895307128b0" timestamp="300" endstamp="360" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="a068b915-3932-4975-ba70-99a0e433e024" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="eafad42a-451f-45ab-abba-7bb04674667c" timestamp="360" endstamp="420" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="5a0ddf41-3c68-4f2d-9e04-7ac3f9ed6d8e" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="3cf55273-b03f-4c5f-ad37-b1d1336af179" timestamp="420" endstamp="480" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="7eb3a8ec-9b3c-4506-9a3d-bd2770f487db" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="3afe25db-3e1b-435b-ada9-2d093dbdae87" timestamp="480" endstamp="540" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="d64bc227-4e85-4bae-b130-8d8a13e5b6cf" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="b9e3cc3d-e2bf-48f2-8c58-f27a82f46baa" timestamp="540" endstamp="600" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="a624453e-7b19-4264-86ae-afb246b66a31" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="da9b1e8d-345f-44a0-a036-f82f58933c8f" timestamp="600" endstamp="660" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="307fe320-2044-466b-bf97-9dd029568b23" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="881bb9fe-318a-4cf7-a4be-fc01e9574c54" timestamp="660" endstamp="720" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="32ec2edb-5070-48dd-b119-3d473adc900f" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="705b8684-054b-49fe-84c4-4476ed91746b" timestamp="720" endstamp="780" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="405dc7dc-d8b3-43da-8135-91dc8a2f8ea3" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="4b0c6b37-15f6-42de-9532-72e2168e115e" timestamp="780" endstamp="840" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="d39f45c6-b8f9-4a1f-8dcc-a4446db8433c" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="f350ae36-2736-4d8c-844d-6ada9218629c" timestamp="840" endstamp="900" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="cdf06d29-21c1-4d56-8834-463beb1ad0a4" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="3fd7fa8d-0f1b-424f-8106-5e30e510f2cc" timestamp="900" endstamp="960" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="e6f952a9-8b6d-4744-bbde-473295706e87" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="267252d5-217b-4173-bd99-3f642f8acf9a" timestamp="960" endstamp="1020" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="e4c18000-9b17-4bc5-af4d-2fe4c8153031" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="e73a7c75-84b1-421a-93ca-b99fb6c68372" timestamp="1020" endstamp="1080" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="e3367ad1-9479-49ef-9f6d-0c21050638a2" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="63f280f8-3979-42b3-beee-a3160bd13485" timestamp="1080" endstamp="1140" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="98ff651a-9d89-4264-88fa-7586c938e186" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="23551c59-c524-4402-b293-3bca3ea062a0" timestamp="1140" endstamp="1200" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="d6d94711-2b08-4425-a903-511c66b5a0d1" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="594c5d66-711f-4c25-809d-a510f521c10c" timestamp="1200" endstamp="1260" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="23f0b741-fecb-442a-ab33-9a55a522681e" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="4f1993a5-e44a-4fc7-b62e-3bbcfc08f97e" timestamp="1260" endstamp="1320" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="351c1bab-57b0-4368-a153-191b1f2843c7" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="99876bce-c40e-41da-b2e6-ab16d94cf5cb" timestamp="1320" endstamp="1380" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="6d009bba-377e-48fb-b931-40f61fe90453" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="e243e003-d2ca-4c49-8562-8cd95c732bbd" timestamp="1380" endstamp="1440" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="f0673197-7ce7-4b8c-96af-c63476e61ced" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+      </ScriptEntry>
+    </ChannelEntry>
+    <ChannelEntry ID="27250364-eb5a-4201-a50c-0de7845220e5" name="True Music Radio" cat="Radio" freq="94200" startscript="TMR2">
+      <ScriptEntry ID="b3015ce7-9a25-4a78-9442-6b638bab8e37" name="TMR2" startdelay="0" timestampmode="Static" loopmin="3650" loopmax="3650">
+        <ExitOptions>
+          <ExitOption chance="100" script="TMR2" delay="0" />
+        </ExitOptions>
+        <BroadcastEntry ID="6576265a-c424-4c76-ba57-e2935f52c156" timestamp="0" endstamp="60" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="44bc1d02-1082-4e25-8633-7907759f1a3a" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="c7e74be0-55f9-4d4b-8aa1-45e2dcdf9714" timestamp="60" endstamp="120" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="a8bbb86e-a0b1-4b45-99a9-30aa0330e7fc" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="e370a918-2b6f-4869-ae80-f8b8f1471ecd" timestamp="120" endstamp="180" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="50282725-f47f-4428-9b54-75510119e8fd" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="eba087ad-b20f-4592-b617-cf939e7746ab" timestamp="180" endstamp="240" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="a4fb6cb9-e091-4695-9258-9e8e2c10824a" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="4f81fc1b-13ae-4d3c-8fbe-c9697ddd299f" timestamp="240" endstamp="300" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="60d38507-64d4-44db-9c48-e8dd72eb365f" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="11a551ed-9a9e-4ebf-8783-6712efb9c09e" timestamp="300" endstamp="360" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="fc58b193-67c2-4efb-80fe-4903258a4f8e" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="3b69da0d-df0f-4ba3-bef5-bf5b9733a229" timestamp="360" endstamp="420" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="f6d14103-6484-4a42-811f-f633e61d9ab8" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="93fbf3e1-1cf4-4144-971a-a3ebd6393c81" timestamp="420" endstamp="480" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="89281589-3ff6-4f49-a323-23db68b52fd6" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="c6198edd-612b-4cc2-87d6-d20bb8efe71f" timestamp="480" endstamp="540" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="ae708b1c-6cdb-46cd-82ef-6ff0404a54de" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="0e93e574-6298-4b4b-a2f4-f4f3a30e6c99" timestamp="540" endstamp="600" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="c93fcf02-8927-4ff5-9bcc-a6440c4ec228" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="28763c85-eda9-4edc-91d8-933db0e8efe9" timestamp="600" endstamp="660" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="5f995bc2-05dd-4cd6-9292-cb44769e882f" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="df5d591b-cb27-4b44-8918-3b32009a990e" timestamp="660" endstamp="720" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="377b87a3-a601-4a78-a38a-124ee9f7d500" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="34f73a18-4c22-4458-8f1b-38630925c2cc" timestamp="720" endstamp="780" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="086c72db-fe61-48da-a113-92dd32f58f56" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="17179506-e6f7-439e-b3c4-a57cf7dfdb3b" timestamp="780" endstamp="840" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="68ad0513-ea26-47a9-988a-a9b8fa71c512" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="fd910032-0c94-4767-8eff-d369c6e9ebcb" timestamp="840" endstamp="900" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="754f20b9-d54c-4b8e-a3b7-f0093d8c4efb" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="b7e9c941-77f4-4c0c-8d12-eaa3b63b1f6e" timestamp="900" endstamp="960" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="36810e23-2e46-452d-81ae-2ad8566565b1" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="60a52389-e4a9-4576-a48b-605f737c5605" timestamp="960" endstamp="1020" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="e97d485a-393d-4ca2-b923-7bbd4b02f8fd" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="d70e11bc-4e1a-4fab-9dc6-ecced0de049b" timestamp="1020" endstamp="1080" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="a63d7bcb-0e61-4fd8-affd-c7c849a0d0da" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="5233b7c8-0e35-4f44-9c49-0ff2cda03ab7" timestamp="1080" endstamp="1140" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="da4cdd98-f758-4dce-8822-b66515c5f1e5" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="b97cb9bc-2a65-48f6-afc5-00945bd09772" timestamp="1140" endstamp="1200" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="26c51048-68b8-4dd3-80d6-d407bb999e78" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="3a32d478-7a80-444b-bc41-482da93fdae9" timestamp="1200" endstamp="1260" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="5dd8509e-64c7-4f34-940e-678ba94e9ece" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="4e96979d-eeb7-41dc-9233-5d7709a23729" timestamp="1260" endstamp="1320" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="fa3961f9-4077-4ca2-88f6-c43ee676b704" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="cbfbe83d-936b-4ed1-8ba5-e88fa33edfb3" timestamp="1320" endstamp="1380" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="cd88f363-6397-4366-a3f7-f1839aee9cb8" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="7b3809f5-c1be-4d11-a207-814a60e22ef6" timestamp="1380" endstamp="1440" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="e321e90b-8ae3-438a-9fc2-860809a39ff3" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+      </ScriptEntry>
+    </ChannelEntry>
+    <ChannelEntry ID="611c00a6-7e19-4811-af83-b96db4ecc6f1" name="True Music Radio" cat="Radio" freq="94400" startscript="TMR3">
+      <ScriptEntry ID="e6fe3091-25e9-4990-bd9b-a6354a96112b" name="TMR3" startdelay="0" timestampmode="Static" loopmin="3650" loopmax="3650">
+        <ExitOptions>
+          <ExitOption chance="100" script="TMR3" delay="0" />
+        </ExitOptions>
+        <BroadcastEntry ID="9d413ae4-a0d2-4d08-adc7-76552f1d9537" timestamp="0" endstamp="60" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="8aba065b-c46f-48fc-8ace-1637a6d7c176" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="8a913f3a-34b4-403e-8e98-0b213b917049" timestamp="60" endstamp="120" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="e12e9d9f-018a-427e-836d-b4ab820c5bd3" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="da6b3101-c8ce-4f7f-8cbb-e78ae67e75e2" timestamp="120" endstamp="180" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="f57ca261-fad9-4e30-a8d7-050d268591ee" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="9d312101-5d97-4596-96b3-c688d6cdaee7" timestamp="180" endstamp="240" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="e035813c-b5fd-448c-8366-41d957674ffe" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="8fbce5bd-9f25-4b6b-9f0a-12c97ccd455f" timestamp="240" endstamp="300" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="47ade99e-67c4-4ca7-8060-83e5726abb5e" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="d1eb54ef-199c-48b5-a1c6-787e1ab94af9" timestamp="300" endstamp="360" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="29574326-76f9-466e-aa48-5e4473649bc8" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="3c1f4f24-c1b7-42d2-bd51-be15307a1435" timestamp="360" endstamp="420" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="08a6493a-6b8b-480b-bf1c-1f159a7893a6" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="1b751b64-dab6-42c0-800e-0f0aa8192e65" timestamp="420" endstamp="480" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="f836c2dd-c5e1-43a7-88bf-59b2fe008e23" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="6f734d10-19e3-41c7-b801-9a1466234f6b" timestamp="480" endstamp="540" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="fd8410c4-24b2-4fb1-a217-3c8042be4d35" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="a0535124-2a44-42e3-a990-0ca765ecc5cf" timestamp="540" endstamp="600" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="0cf982ae-2dd6-4375-8181-65b474a488b7" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="58a7034e-8830-43a5-88d3-28b95c7774c8" timestamp="600" endstamp="660" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="d59c5299-cd4a-4a61-9589-de22681a0fe1" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="d707850c-ab4d-4e83-8244-90362de95390" timestamp="660" endstamp="720" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="5be3f65e-0db5-43b6-b1d6-9c1559ee8617" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="88eb9627-3203-40f3-90fb-8644474d86cb" timestamp="720" endstamp="780" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="d6d63630-aadd-4a27-9867-ac615c469488" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="bbc22cd0-5e65-4b8f-9f9f-2f6741aa0085" timestamp="780" endstamp="840" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="3d5c1351-a8b8-456b-b675-9f6403020640" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="3f564626-9ddc-4d47-8701-c7cf497914f1" timestamp="840" endstamp="900" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="15634dfa-c539-422e-846e-41f714ef2b8f" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="7e047759-eb91-4534-b528-793f835c3a8a" timestamp="900" endstamp="960" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="05caeec6-7660-4608-9834-0cc226bdcb49" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="f029db5f-f94f-490e-89e5-2da9af667f70" timestamp="960" endstamp="1020" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="5672169b-956b-4e47-a609-f80c8383b071" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="f4463b58-ed1e-4da6-8088-efafffcdc940" timestamp="1020" endstamp="1080" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="9002379c-f6b9-4d87-9299-dba96752a19d" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="aa803710-fabd-4d64-807d-4838f9a9f9dd" timestamp="1080" endstamp="1140" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="86c95c1f-cd01-4e58-adb8-78430e1e7a02" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="7eb4d345-f593-4909-91fd-05020f0c21b6" timestamp="1140" endstamp="1200" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="9699781a-41f5-4998-8ac9-96c6680a3149" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="efda7deb-28ae-4fa2-bf4a-e38067b7d799" timestamp="1200" endstamp="1260" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="64844813-1e06-4d16-bd59-7c930f548d65" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="147d6f59-a096-4fc8-abac-0ec559ae1abe" timestamp="1260" endstamp="1320" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="d95c2d6d-06a6-4c8d-8723-3773c4db6c18" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="98fc4d4d-2104-4193-a67f-1825e9804efa" timestamp="1320" endstamp="1380" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="be922fa5-dabf-4ea2-b4e9-d929b960b984" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="b8846c17-b829-4b15-8aea-027b69f45f8f" timestamp="1380" endstamp="1440" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="a7a5de33-5ce5-4266-aaf5-326da80154c8" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+      </ScriptEntry>
+    </ChannelEntry>
+    <ChannelEntry ID="28a128cc-6f71-4f86-b7b7-92136152e995" name="True Music Radio" cat="Radio" freq="94600" startscript="TMR4">
+      <ScriptEntry ID="790e56a4-5afe-4038-a601-b6509c9bbd04" name="TMR4" startdelay="0" timestampmode="Static" loopmin="3650" loopmax="3650">
+        <ExitOptions>
+          <ExitOption chance="0" script="TMR4" delay="0" />
+        </ExitOptions>
+        <BroadcastEntry ID="cddf7876-8274-43b8-a1b4-e353fdc39796" timestamp="0" endstamp="60" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="518e0602-07eb-4546-83bf-198b685d8b06" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="a3b641e0-7fb6-4a23-ae53-b65b52e152c3" timestamp="60" endstamp="120" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="3723b250-1e03-4453-95d3-9a83f7984948" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="6aee0ad3-f5b9-4380-93af-dcfcd5646982" timestamp="120" endstamp="180" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="be86f75a-eaba-4156-a642-16aa751324d0" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="c8efee95-89b2-4c55-b04f-9058df4eadf3" timestamp="180" endstamp="240" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="36abf1ae-37fc-4551-bf68-99bdfd4cafe4" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="30e98924-26f5-4875-80e1-dbf21b5601b8" timestamp="240" endstamp="300" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="0853dd60-9669-45f7-9ea1-0f5d2ac2dc28" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="6a117b9c-1c79-4a41-b1bd-7e492faa23d3" timestamp="300" endstamp="360" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="e22a55b0-24e9-4619-be40-36080af8fd19" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="dc0cfd70-b0aa-480c-9eff-6d942f56676c" timestamp="360" endstamp="420" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="61aac8f4-9dd8-47fc-ba45-0fb94a3f8717" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="4f0b04aa-82c6-457b-8232-591b235eb749" timestamp="420" endstamp="480" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="ecc48276-7a94-4072-a990-83b285ac70d5" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="cf7a9ca2-3ed0-4495-afde-0beb640db89e" timestamp="480" endstamp="540" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="1eee95e0-a8dc-4fa0-a69b-a4e9528fde78" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="da3968aa-f18c-4444-8b85-ca5c8609caa2" timestamp="540" endstamp="600" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="f818d85c-80f2-43ad-a3fa-9fc34c54d431" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="c0368fbe-270e-43fa-bc02-f79a231d4f4a" timestamp="600" endstamp="660" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="bab003c6-d86f-43ee-b292-7a9ef57e73b4" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="bfb60769-4098-436f-825f-78ce8d204771" timestamp="660" endstamp="720" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="34109703-916f-4d96-a820-02fe355823ee" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="157e7840-3571-4715-80d7-0263ce2099ce" timestamp="720" endstamp="780" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="1daf1525-f04c-4edb-85ac-2d73f41f6742" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="ffaaa74e-55c1-49ad-bb6c-f9c5af883cb4" timestamp="780" endstamp="840" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="10518ef8-6f2f-49f0-8cd0-ac34bc07cce6" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="7a197a5f-28f4-4437-b65d-3f1bea20b02b" timestamp="840" endstamp="900" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="52b8af6b-6925-42fd-b4f3-3186220bed1f" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="3550bc3c-83f1-41d8-b46f-a1432041ee39" timestamp="900" endstamp="960" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="163de283-d9b0-44a2-a6a9-b8c44b0d3bec" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="14f74eac-4cf3-4d40-ab0e-33a7f6cdd872" timestamp="960" endstamp="1020" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="68337bbb-d56d-4ab2-a993-2ce24547b420" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="442f1332-9b2c-401b-ab3c-cb3dd2d7e361" timestamp="1020" endstamp="1080" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="902b3f9d-56f1-41f3-82e2-acaec9001a0d" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="c2d0a8d4-6221-4995-9f2b-ff112434a2db" timestamp="1080" endstamp="1140" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="cea7417d-bac3-4910-a044-bdcdc5e04987" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="a79443ea-b616-4f97-b48e-c303fd40ca0f" timestamp="1140" endstamp="1200" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="5dd47db1-5b0f-4a3c-9925-a4c9a0bd63bb" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="59cfba94-8674-4fbe-b678-4c5b65a2332e" timestamp="1200" endstamp="1260" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="20c919e6-e58d-4434-8a34-11680699eba3" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="da474edc-479b-430c-bf56-03c320e35944" timestamp="1260" endstamp="1320" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="cac773d3-8832-4d66-a878-fd990ea82e65" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="c7fbf60c-f7dd-4b1e-a6b6-0ba6449ed60d" timestamp="1320" endstamp="1380" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="19081c6a-d7de-4bba-82fa-3cd7c12edacd" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="58036a63-b7d6-4ae0-9bda-fbb8593f10f4" timestamp="1380" endstamp="1440" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="caeb0049-422f-4581-9ce7-51cccb798d4a" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+      </ScriptEntry>
+    </ChannelEntry>
+    <ChannelEntry ID="ea065548-15fe-4167-95d2-16ff7a97776e" name="True Music Radio" cat="Radio" freq="94800" startscript="TMR5">
+      <ScriptEntry ID="f321c4f2-0dfc-44f4-b120-8e1698d59699" name="TMR5" startdelay="0" timestampmode="Static" loopmin="3650" loopmax="3650">
+        <ExitOptions />
+        <BroadcastEntry ID="b07938a3-1a27-46a0-9363-01c64a213a23" timestamp="0" endstamp="60" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="89d786e4-259b-42e7-8c2a-002796318451" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="a258ed23-9472-42db-b7f7-6c82f54b2cd1" timestamp="60" endstamp="120" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="4e2eec43-23e9-422c-b963-4b2a11535c0c" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="d01f801c-6b0f-4f1b-b607-59b1ca8320b1" timestamp="120" endstamp="180" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="f999d434-81ab-4b71-8d22-72086d4c385c" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="b07fdbe2-e102-485a-8ee3-191fb6aeb22e" timestamp="180" endstamp="240" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="ef83f010-546a-4b93-b16a-24fa22d73711" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="add264a0-e732-41a2-baa1-00c2fa6a6204" timestamp="240" endstamp="300" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="3bb9489a-bf32-48e1-8f66-db22bb97ec1a" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="aee3b682-4edc-4d77-8982-ad1eb60b8286" timestamp="300" endstamp="360" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="0f115f5b-3952-4c5f-b4f3-797b788cad09" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="e3aab3aa-76aa-4c94-8de2-efc9d4e5e9f5" timestamp="360" endstamp="420" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="7c9c5b50-998a-4f39-9b5e-0bb9054e12af" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="14e6cc7e-d5f2-4f19-bda5-60ecccb5137b" timestamp="420" endstamp="480" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="7c1bfd59-cee3-47f8-b52a-af62be864624" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="5cbcd470-312c-4361-8ef4-7158f01b746c" timestamp="480" endstamp="540" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="52563b09-5edf-45dc-9225-a9bada0939ec" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="a793afdf-7d28-438e-b060-28bca43b71f4" timestamp="540" endstamp="600" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="26bd68f9-fe56-4a24-8c9d-f78afe06fe96" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="aed4ce01-253a-4e31-8fa0-8c912ed0d36d" timestamp="600" endstamp="660" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="87e9c37a-e693-4b5c-b1f9-43b4ee03568e" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="313a026c-2f47-4082-8431-475f064cfd99" timestamp="660" endstamp="720" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="786ec373-8f17-4c27-aa4e-779882332898" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="1a64e621-6ab1-4a40-be98-b53fefd6be34" timestamp="720" endstamp="780" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="9d022ee8-c162-4a89-a706-1c5a8314248a" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="8a78a392-6a57-4aef-8f3f-4529b1a3c500" timestamp="780" endstamp="840" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="c2af1021-bfe1-4c2c-8c64-b88399290bd2" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="c2a1f27b-f331-4620-b2ba-ffbf3a8e7cbd" timestamp="840" endstamp="900" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="e7829be9-7209-4544-b61a-69e0b7adfa66" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="2cb43354-5f5f-481d-8c64-f54df32a26a2" timestamp="900" endstamp="960" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="5b0f50d3-2727-4550-b778-f74b8c2cfcb5" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="0961ddd6-e64a-40ab-9a43-e254970575da" timestamp="960" endstamp="1020" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="c92f3372-cedf-4646-a582-6bc3d08379f7" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="0e1e35f7-15ce-47e4-aaa0-c634929ce35b" timestamp="1020" endstamp="1080" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="fe10fc88-369c-48c8-aaa0-40a44eeebb59" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="cdd2e561-c969-4abc-9455-103e47a6afda" timestamp="1080" endstamp="1140" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="b265999f-4359-40e3-9bff-dd52d46fd2a6" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="54bf5ae0-0b00-4d03-9f76-bea6ffe9411f" timestamp="1140" endstamp="1200" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="5ae94614-352e-4cfa-8bfa-a0cea724dc45" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="e89bbe8e-4cf5-4a3a-9048-14a345c47a47" timestamp="1200" endstamp="1260" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="36b2fb10-bd52-4eda-96c3-dc2dd540acc6" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="024ff43a-e6ad-4286-bca2-cfd95ca6838d" timestamp="1260" endstamp="1320" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="ff65d1d7-fa48-40d0-86bf-e3352a347156" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="f6de4661-2b00-4650-a7ea-f902cd69180e" timestamp="1320" endstamp="1380" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="e497fe13-4ca0-45f5-8666-bdc400c108d0" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+        <BroadcastEntry ID="ab34d950-7039-490d-b4b4-f3f9e1c48959" timestamp="1380" endstamp="1440" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false">
+          <LineEntry ID="6ede7ee6-6e1f-4105-9496-6a7b78ae45bc" r="255" g="0" b="0" codes="BOR-1">[img=music]</LineEntry>
+        </BroadcastEntry>
+      </ScriptEntry>
+    </ChannelEntry>
+  </Channels>
+</RadioData>
