@@ -1,0 +1,10 @@
+VERSION = 1,
+
+option TrueMusicRadio.TMRRadiosAttractZombies
+{
+	type = boolean,
+	default = FALSE,
+
+	page = TrueMusicRadio,
+	translation = TrueMusicRadio_TMRRadiosAttractZombies,
+}
