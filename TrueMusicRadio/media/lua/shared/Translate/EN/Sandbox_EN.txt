@@ -1,8 +1,0 @@
-Sandbox_EN = {
-	
-	Sandbox_TrueMusicRadio = "True Music Radio",
-
-	Sandbox_TrueMusicRadio_TMRRadiosAttractZombies = "Enable True Music Radios To Attract Zombies",
-	Sandbox_TrueMusicRadio_TMRRadiosAttractZombies_tooltip = "Enabling this will increase the possibility of zombies being attracted to True Music Radio music. (Does not affect vanilla radio attraction.)",
-
-}
