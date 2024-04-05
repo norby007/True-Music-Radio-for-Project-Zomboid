@@ -1,0 +1,18 @@
+UI_EN = {
+
+	UI_TrueMusicRadio_MO_muteMusic = "Mute All True Music Radios",
+	UI_TrueMusicRadio_MO_muteMusic_tooltip = "Enable this option to mute all True Music Radio songs in the game.",
+
+	UI_TrueMusicRadio_MO_enableRDS = "Enable RDS On True Music Radio Stations",
+	UI_TrueMusicRadio_MO_enableRDS_tooltip = "Enable this option to activate the Radio Data System for music information on True Music Radio stations.",
+
+	UI_TrueMusicRadio_update94 = "Update 94FM radio playlist from terminal library",
+	UI_TrueMusicRadio_update942 = "Update 94.2FM radio playlist from terminal library",
+
+	UI_TrueMusicRadio_revert94 = "Revert the 94FM radio playlist back to the entire True Music library",
+	UI_TrueMusicRadio_revert942 = "Revert the 94.2FM radio playlist back to the entire True Music library",
+	UI_TrueMusicRadio_ejectmedia = "Eject random music from terminal library",
+	UI_TrueMusicRadio_sayaccessblocked = "I am unable to access this Terminal, the path is blocked.",
+	UI_TrueMusicRadio_sayneedsgenerator = "I will need a generator nearby to power it."
+
+}
